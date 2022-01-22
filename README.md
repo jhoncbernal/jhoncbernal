@@ -1,13 +1,12 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+🇨🇴🇨🇦
+I’m Jhon , a senior full-stack engineer, creative coder who specializes in back-end development. I make it my mission to focus in design microservices or applications with the best and efficiency  performance.
 
-I’m Jhon, a senior full-stack engineer, creative coder who specializes in back-end development. I make it my mission to focus in design microservices or applications with the best and efficiency  performance.
+Want to know more about me? 
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
-My name is Jhon Casallas and I'm a software developer engineer. I'm from Colombia 🇨🇴, living in Canada 🇨🇦.
-
-📫 How to reach me:   
-<br/>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jhoncbernal/)
+
+
 
 ## 💼 Skills
 

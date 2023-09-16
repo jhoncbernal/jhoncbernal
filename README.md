@@ -1,29 +1,38 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-🇨🇴🇨🇦
-I’m Jhon , a senior full-stack engineer, creative coder who specializes in back-end development. I make it my mission to focus in design microservices or applications with the best and efficiency  performance.
+# Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jhon
 
-Want to know more about me? 
+🔗 **Connect with me:**  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Jhon_Bernal-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhoncbernal/)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jhoncbernal/)
+**Senior Full-Stack Engineer**
+---------------------------
 
+* 🌍  I'm based in Colombia 🇨🇴 and Canada 🇨🇦
+* ✉️  Reach out to me at [jhoncbernal@gmail.com](mailto:jhoncbernal@gmail.com)
+* 🧠  I specialize in back-end development and microservices
+* 🤝  I'm open to collaborations and love to build efficient applications
 
+<a href="https://www.github.com/jhoncbernal" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/jhoncbernal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-## 💼 Skills
+### 🛠️ Skills
 
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=80a1c1)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=80a1c1)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=80a1c1)
-![](https://img.shields.io/badge/Framework-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=80a1c1)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=80a1c1)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=80a1c1)
-![](https://img.shields.io/badge/Tools-MicrosoftSQL-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=80a1c1)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=80a1c1)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=80a1c1)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=80a1c1)
-![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=80a1c1)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=80a1c1)
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<!-- Add more icons as per your skills -->
+</p>
 
-## &#x1f4c8; GitHub Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=jhoncbernal&theme=nord&show_icons=true&count_private=true)
+### 🌐 Socials
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jhoncbernal/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
+
+### 📊 GitHub Analytics
+
+<a href="http://www.github.com/jhoncbernal"><img src="https://github-readme-stats.vercel.app/api?username=jhoncbernal&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jhoncbernal's GitHub stats" /></a>
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncbernal&theme=nord&layout=compact)
 <!--[![Visits Badge](https://badges.pufler.dev/visits/jhoncbernal/jhoncbernal)](https://badges.pufler.dev)--¡>
